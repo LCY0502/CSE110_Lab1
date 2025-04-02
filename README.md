@@ -1,2 +1,1 @@
-# Lab1
- CSE110 Lab1
+[Page Website](https://lcy0502.github.io/Lab1/) or https://lcy0502.github.io/Lab1/
