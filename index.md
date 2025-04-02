@@ -17,7 +17,7 @@ That quote probably is not from ALbert Einstein, but I pretty sure he would say 
 
 For get about the endianness, it is certain that Albert Einstein is a human computer.
 
-Okey, maybe it is little bit over and is kinda boring now. How about a cooking recipe of [how to make a delicious cake](https://www.youtube.com/watch?v=xvFZjo5PgG0), or maybe you are in a hurry and just want to go to the [**important part**]([#the-end](https://www.youtube.com/watch?v=xvFZjo5PgG0)).
+Okey, maybe it is little bit over and is kinda boring now. How about a cooking recipe of [how to make a delicious cake](https://www.youtube.com/watch?v=xvFZjo5PgG0), or maybe you are in a hurry and just want to go to the [**important part**](https://www.youtube.com/watch?v=xvFZjo5PgG0).
 
 After you are finish, go to [here](words.md)
 
